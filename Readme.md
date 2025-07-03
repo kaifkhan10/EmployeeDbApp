@@ -30,7 +30,7 @@ CREATE TABLE employees (
     salary DOUBLE
 );
 
-**⚙️ Project Setup Instructions**
+⚙️ **Project Setup Instructions**
 
 Step 2: Download MySQL Connector/J
 Download from: https://dev.mysql.com/downloads/connector/j/
